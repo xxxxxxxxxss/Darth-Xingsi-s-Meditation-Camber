@@ -1,0 +1,57 @@
+#part1center{
+	border-style: outset;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#part1left{
+	border-style: inset;
+}
+#part1right{
+	border-style: inset;
+}
+#part2{
+	border-style: double;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+#part2right{
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.info{
+	text-align: left;
+}
+
+#main{
+	text-align: left;
+
+}
+#part3{
+	border-style: double;
+	position: center;
+}
+#part3left,#part3center,#part3right{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.n{}
+#part4{
+	padding-top: 20px;
+}
+
+h1{
+	text-align: center;
+	border-style: outset;
+	padding: 2px 40px 2px 40px;
+
+}
+
+#N{
+	font-size: 30;
+	text-align: right;
+}
+body{
+	background-image: url("grey2.jpg");
+}#patt1{
+	position: center;
+}
